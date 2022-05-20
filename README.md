@@ -1,0 +1,1 @@
+Jogo da Velha em Python. Projeto apresentado ao curso de introdução à programação com Python, da escola Let's Code, como requisito para iniciar a formação em Data Science.
